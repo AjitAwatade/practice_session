@@ -1,2 +1,2 @@
 # practice_session
-This is My first repository
+This is My first repositories
